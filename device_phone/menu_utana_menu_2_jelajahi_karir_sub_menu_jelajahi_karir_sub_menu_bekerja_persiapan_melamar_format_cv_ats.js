@@ -1,0 +1,136 @@
+PhoneResponsive={"785":{
+"pageLayer":{"w":785,"h":547,"bgColor":"#ffffff"}
+,
+"image128424":{"x":0,"y":0,"w":826,"h":542,"bOffBottom":0,"i":"images/karirpage_-_bekerja_-tipsmemasukiduniakerja_-_membuatcv_2_.png"}
+,
+"audio207488":{"x":680,"y":3,"w":39,"h":39,"bOffBottom":0}
+,
+"image196565":{"x":771,"y":3,"w":39,"h":39,"bOffBottom":0,"i":"images/group_86.png"}
+,
+"image196562":{"x":725,"y":3,"w":39,"h":39,"bOffBottom":0,"i":"images/group_87.png"}
+,
+"text161985":{"x":131,"y":97,"w":170,"h":26,"txtscale":100,"bOffBottom":0}
+,
+"text161983":{"x":529,"y":96,"w":178,"h":52,"txtscale":100,"bOffBottom":0}
+,
+"text161982":{"x":302,"y":57,"w":224,"h":56,"txtscale":100,"bOffBottom":0}
+,
+"image161980":{"x":19,"y":58,"w":25,"h":25,"bOffBottom":0,"i":"images/angle-right-b.png"}
+,
+"image137333":{"x":438,"y":186,"w":387,"h":121,"bOffBottom":0,"i":"images/card1_4_.png"}
+,
+"image136215":{"x":0,"y":388,"w":297,"h":92,"bOffBottom":0,"i":"images/card1_4_.png"}
+,
+"image135278":{"x":0,"y":253,"w":339,"h":105,"bOffBottom":0,"i":"images/card1_4_.png"}
+,
+"image135092":{"x":0,"y":145,"w":348,"h":109,"bOffBottom":0,"i":"images/card1_4_.png"}
+,
+"image134366":{"x":507,"y":453,"w":315,"h":83,"bOffBottom":0,"i":"images/card1_3_.png"}
+,
+"image131985":{"x":408,"y":289,"w":429,"h":186,"bOffBottom":0,"i":"images/card1.png"}
+,
+"shape122962":{"x":535,"y":186,"w":160.000000,"h":24.000000,"stylemods":[{"sel":"div.shape122962Text","decl":" { position:fixed; left:5px; top:4px; width:151px; height:17px;}"},{"sel":"span.shape122962Text","decl":" { display:table-cell; position:relative; width:151px; height:17px; vertical-align:middle; text-align:center; line-height:11px; font-size:11px; font-family:\"Open Sans\"; font-weight:bold; color:#ffffff;}"}],"bOffBottom":0 ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAAAYCAYAAAB9VvY1AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGfSURBVGhD7ZaLbcMwDES9T1fJKBnEg3ROOaDgMy5nSaFiNEWLe4CRiOJHDBnKy2KMMcYYY4wxxhhjzLJs27ZuQinlrnqzwK/Ke0C/lPKlezOM/GRyHdmDjI5JQj/mfX++99qsqjvDbAMitspnGfnJ5DqyBxkdk6T1bybZ7Vk7z2wDfoKfytVcoFWUKAYmBckwLU4Tg+SHDTcg+atTY99bYav6WIe++J+Kq2RyVfvMWc0FRkVBwdF8ocN7sd7l0Si3/Wqqk4T9QkdjcgwtKtnDN84QMV7GhR8mk6vaZ85qLjAqChdbQUNRY9RmaPg9mrexd5LpWnTScbFmWj6TE1DP0Y1hJmn9wFTcmC48bWICHg/p84Tia/aAr/NWAVWm5+JzQGcUFzqM+gw4V9ZRG6x7MvMm1CjxWd+7sIYOFaledfQZTRE28b31nvf0ztQrcktGNr0r+GVcJZOr2uu6JzNvQkWp6JU20KsNSEU8piTrk32ltdeSSbMAvJOm4zKNHE65qr2uezLzz0CR+bo05mO4Ac2v4gY0xhhjjDHGmD/IAwn8k4Yc+QE8AAAAAElFTkSuQmCC"  ,"fd": "" ,"p": "M 6.000000 1.000000 L 153.000000 1.000000 L 154.937500 1.375000 L 156.562500 2.500000 L 157.625000 4.062500 L 158.000000 6.000000 L 158.000000 17.000000 L 157.625000 18.937500 L 156.562500 20.562500 L 154.937500 21.625000 L 153.000000 22.000000 L 6.000000 22.000000 L 4.125000 21.625000 L 2.500000 20.562500 L 1.375000 18.937500 L 1.000000 17.000000 L 1.000000 6.000000 L 1.375000 4.062500 L 2.500000 2.500000 L 4.062500 1.375000 L 6.000000 1.000000 z"}
+,
+"text122099":{"x":554,"y":215,"w":258,"h":120,"txtscale":100,"bOffBottom":0}
+,
+"text124093":{"x":554,"y":331,"w":253,"h":200,"txtscale":100,"bOffBottom":0}
+,
+"text126289":{"x":556,"y":482,"w":250,"h":60,"txtscale":100,"bOffBottom":0}
+,
+"text120455":{"x":27,"y":281,"w":240,"h":100,"txtscale":100,"bOffBottom":0}
+,
+"text121577":{"x":24,"y":418,"w":240,"h":80,"txtscale":100,"bOffBottom":0}
+,
+"text120389":{"x":25,"y":175,"w":240,"h":107,"txtscale":100,"bOffBottom":0}
+,
+"shape117008":{"x":540,"y":454,"w":183.000000,"h":24.000000,"stylemods":[{"sel":"div.shape117008Text","decl":" { position:fixed; left:5px; top:4px; width:174px; height:17px;}"},{"sel":"span.shape117008Text","decl":" { display:table-cell; position:relative; width:174px; height:17px; vertical-align:middle; text-align:center; line-height:11px; font-size:11px; font-family:\"Open Sans\"; font-weight:bold; color:#ffffff;}"}],"bOffBottom":0 ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAALcAAAAYCAYAAAC4JGykAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAJwSURBVHhe7ZgLbgIxDES5D1fhKD0IB+k5Q5WVJ5rMOptsQZUK8yTU/Th2bA9J6OVijDHGGGOMMcYYY4wxr6GUci2lfD+Cel1Kuandb3k8Hvfwe8UziXeLyzvbd06eIIvP4D3PYYTYLo0Bz+aleTzr7yMgodVi3UPcX2q3in4xqq/qk98jHuJwzFc3TeMzPBcSzzB3toHf2RhwNq9ZHc/6+0iiOWnzzwKxjFbJSm1S2KS7w182jeZ742u1A7p6xrOl+p3Ja6WOZ/x9LLxyZ8XkI0S1wXNa6ZtYya41nJugNoiJ65E9fIUI0/lgHmB1Jxj5y1BxY+6yM6X+dB6jXLRGWR35XvLmeqT+MTbebT70/VsxSpK23XouT8/GeBaNbgXHCshNSWyq31TcA+Fs42MusKtNbLZxn8ZXki8EzrNdXCBz3x1LVuoFX5NcDusoc0HOiL3Zj/yvjH07oiHdKh7XHbqSQBDhA6s4b9va1O5YciDuJhQaq6tRJqzuB7HGZ8hHy5XmtztHwxdD8ZfqBV+TXKZ11Prjy0R1HfqfjX1bIskqEF4NtxUWn7DbiWalKaviBioeiIUa0kQoq1AqKrLt4qo41b6iomDO1GuWy0od9Z4FOvN/NBbP/j3cYPps9/G+bbtRtOE2GfbY5tt/QtRuVdx8rQ0TEW/Hm4hZn3fndI3PRNwtNuXexio0n524K6v1Osol3k/rqPcjcWf+j8bi2VuAxInuhwU3vZI1C8RK1fxldmfEHfc7Xxgff3F2b3Gxemb+mME4zG8n8Jm4K6v1GuVS3+m8jsbjXgV65H821hhjjDHGGGOMMcYYY4wxx/wAqTNXVFR9p44AAAAASUVORK5CYII="  ,"fd": "" ,"p": "M 6.000000 1.000000 L 176.000000 1.000000 L 177.937500 1.375000 L 179.562500 2.500000 L 180.625000 4.062500 L 181.000000 6.000000 L 181.000000 17.000000 L 180.625000 18.937500 L 179.562500 20.562500 L 177.937500 21.625000 L 176.000000 22.000000 L 6.000000 22.000000 L 4.125000 21.625000 L 2.500000 20.562500 L 1.375000 18.937500 L 1.000000 17.000000 L 1.000000 6.000000 L 1.375000 4.062500 L 2.500000 2.500000 L 4.062500 1.375000 L 6.000000 1.000000 z"}
+,
+"shape113843":{"x":115,"y":389,"w":160.000000,"h":24.000000,"stylemods":[{"sel":"div.shape113843Text","decl":" { position:fixed; left:5px; top:4px; width:151px; height:17px;}"},{"sel":"span.shape113843Text","decl":" { display:table-cell; position:relative; width:151px; height:17px; vertical-align:middle; text-align:center; line-height:11px; font-size:11px; font-family:\"Open Sans\"; font-weight:bold; color:#ffffff;}"}],"bOffBottom":0 ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAAAYCAYAAAB9VvY1AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGISURBVGhD7ZeBbcMwDASzT1fpKBnEg3ROqpCgN95vypHTIHXRP6BAKX5IxfpS7u1mjDHGGGOMMcYYY/47pZSllFIi4oPWGlvl30e/K2LVmTeihxIRX2rIIyLiU9euSkTc6/dDbANeADYg/X5XXUY13xmzXg0b8AKw6frNu6gGU5HzMB/gyZLpK73Xgl6oc6TvubZH5Gmvqf4oXxdG8TN7Qd48iTzQ3UPlK5lMVw9jMzFxFY/0SS8YudXpWtRrtSiuploNj5h6pXrKt4muhtP4zF60t3kSMdHm/a8fyI6q6/k2aWb11Gu9spOpszMM1Uc/mB2vAKm+r+36U04NeGYv6G0D/gR+sDAQGWyNkcdPz6cGHOmTA9d+qaFIf8qAWl/rcazaUW181gZ8EXpoPBFrzNdYnxB83a7vjTP65BDZsA+vzBMGnKo3MuDMZ23AF6EG7GsN1QAyQJ1u65X1SK+HqNqRoaCdNaD0n/4n5ORebECzJftjMuZt2IDmV7EBjTHGGGOMMeYCfANbFMDaTOdQCwAAAABJRU5ErkJggg=="  ,"fd": "" ,"p": "M 6.000000 1.000000 L 153.000000 1.000000 L 154.937500 1.375000 L 156.562500 2.500000 L 157.625000 4.062500 L 158.000000 6.000000 L 158.000000 17.000000 L 157.625000 18.937500 L 156.562500 20.562500 L 154.937500 21.625000 L 153.000000 22.000000 L 6.000000 22.000000 L 4.125000 21.625000 L 2.500000 20.562500 L 1.375000 18.937500 L 1.000000 17.000000 L 1.000000 6.000000 L 1.375000 4.062500 L 2.500000 2.500000 L 4.062500 1.375000 L 6.000000 1.000000 z"}
+,
+"shape112802":{"x":115,"y":253,"w":160.000000,"h":24.000000,"stylemods":[{"sel":"div.shape112802Text","decl":" { position:fixed; left:5px; top:4px; width:151px; height:17px;}"},{"sel":"span.shape112802Text","decl":" { display:table-cell; position:relative; width:151px; height:17px; vertical-align:middle; text-align:center; line-height:11px; font-size:11px; font-family:\"Open Sans\"; font-weight:bold; color:#ffffff;}"}],"bOffBottom":0 ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAAAYCAYAAAB9VvY1AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAIxSURBVGhD7ZYBbsMgDEV7n15lR+lBepCdk0xGNvr8mLB0mZJW/0lbS7AdsD+4t5sQQgghhBBCCCGEeEeWZXkuQCnlu5TyxfOllHvveT14L86T7Y7AcmTBSykPG8/yNLOPMft9PJCIBxYwEmPPTZTsdxZ4OBjcS6wbi34kLKhZnmb2EiAIzsfDQp8FFDG9ZXgv/qze6r3l32FBzZjZS4DUCkKAmBhIYjfHbSVs4wZyaisEgbdCwE113/Cr7w4yUfFe7JNts9jh63OtC+C8r63ztX/Z3l+x59y5bV33KCfht7Xuy0MLr6A4KDG1oLFBt62bxzHYWnIsmSxqtmsxR37xPNaX3dA0v2rBLHR8L/jW38BgW98DArC1rWJjnl6xh/dnhybNCfml6748VLS6+Gw+xrhB+ozERbH51OJca/P4fYffZgse+IbQO6LQKAC3b/vjQ0LzK0HttccxHhL0HeVka93hf2lwA1niOFEhAj+RduqaD8eJ4nLyE5/uNtzw+5UAs3mMHWuMP/QF+1MEGHCuRjnhOG8tQBvzjZRssN0kkKQ4tSsh4ekNe4xLcTb9SPwtFsfMBGhgPI/fWnmyz66QcAPVVshrS/x32eMY9tHEP8oJx+F1X56saJ64LhnoA0ng3yEjgXWn1mM0IcezmZ/fWK0VoR/6jgRoYPx4Bz4POy4kvxsO6kgIu+yTcQXn3P+zbsCzyNqUEP+O3wzYSoa3lRCHEy1CbUIIIYQQQgghxJQfnu+k16caO4oAAAAASUVORK5CYII="  ,"fd": "" ,"p": "M 6.000000 1.000000 L 153.000000 1.000000 L 154.937500 1.375000 L 156.562500 2.500000 L 157.625000 4.062500 L 158.000000 6.000000 L 158.000000 17.000000 L 157.625000 18.937500 L 156.562500 20.562500 L 154.937500 21.625000 L 153.000000 22.000000 L 6.000000 22.000000 L 4.125000 21.625000 L 2.500000 20.562500 L 1.375000 18.937500 L 1.000000 17.000000 L 1.000000 6.000000 L 1.375000 4.062500 L 2.500000 2.500000 L 4.062500 1.375000 L 6.000000 1.000000 z"}
+,
+"shape112078":{"x":76,"y":148,"w":199.000000,"h":24.000000,"stylemods":[{"sel":"div.shape112078Text","decl":" { position:fixed; left:5px; top:4px; width:190px; height:17px;}"},{"sel":"span.shape112078Text","decl":" { display:table-cell; position:relative; width:190px; height:17px; vertical-align:middle; text-align:center; line-height:11px; font-size:11px; font-family:\"Open Sans\"; font-weight:bold; color:#ffffff;}"}],"bOffBottom":0 ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMcAAAAYCAYAAABObek8AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAKOSURBVHhe7ZfhddswDISzT1fpKBkkg3ROuQ98OL7jCaQsu47c9r4fiUQS4OFISvLHhzHGGGOMMcYYY4wxxph/ndvt9nVLuH3btp/RFv+5/UpI06f2PQM82Lbth/bNYN/iWvvfgVVdVR+KGUe+HmjR9suZLbIPxxzS8Suu38kjJnwKjdoeaM0x7owHR5zx5O0Ph5rjwzHnVTq+E66Zrv9IPeTPXX7+DYejPw2jXQ9HPiHbAUr6Wyaus294C4XZ1fhVLibM1XHxB4u4yjPTNEyQ6OFYxeZmGkidO62Sv/uxmuMRzySm+4PcGMdQzYgdvDmqp9KecW3fAN5Pq3zRwPGIuxQWRoa1TwVcRx+eMNnex0lc+8xA9biHKffkYsjMtmkoDw7HNI9qUg0Mje2HYxabm6ZvKKqpa6P4YZMippoDndWcmb+sFYeV4sKnwYOh2EQ0BXo4DuuptOqb6Ei/5Ou1sJbLYAP5qYgFo+L05Fdm4ZOsbR6O5fGrXIC0VL+DDvMUmoZ6GB2r9xpb6Nhpzf62yJqvanvGM9qcbbPqHLhnZAMjHlpO1VP4g1p6vSv9lG/QcTlqIBWmT4Nuji7cIsduoY9yUY7dAp3JU2g6fTjQr7E6V6WVtWm+qu1Zz3jzreYFXHOR/1Q9hT/D4Sjyl2sFdC9chhaabSy0enX3V26V496FrnIx6Iv8OvYoT6HpZYcj2/r8lK/UUrU96ln2wR/ElJuYmdUMzWfqKfzhz86lfs1Hc+3W6dvRQgMUyyIxDm2z4jJ+utBHuZh8qvVXMeU9zFNoeunhyHb+bCh/cM7aHvWs8Cg2YFkHozVnWwP399ZT+DNo4hiMy//lWnGcMcYYY4wxxhhjjDHGGGPM/8hvBz9kS5yjS5UAAAAASUVORK5CYII="  ,"fd": "" ,"p": "M 6.000000 1.000000 L 192.000000 1.000000 L 193.937500 1.375000 L 195.562500 2.500000 L 196.625000 4.062500 L 197.000000 6.000000 L 197.000000 17.000000 L 196.625000 18.937500 L 195.562500 20.562500 L 193.937500 21.625000 L 192.000000 22.000000 L 6.000000 22.000000 L 4.125000 21.625000 L 2.500000 20.562500 L 1.375000 18.937500 L 1.000000 17.000000 L 1.000000 6.000000 L 1.375000 4.062500 L 2.500000 2.500000 L 4.062500 1.375000 L 6.000000 1.000000 z"}
+,
+"shape112508":{"x":535,"y":301,"w":160.000000,"h":24.000000,"stylemods":[{"sel":"div.shape112508Text","decl":" { position:fixed; left:5px; top:4px; width:151px; height:17px;}"},{"sel":"span.shape112508Text","decl":" { display:table-cell; position:relative; width:151px; height:17px; vertical-align:middle; text-align:center; line-height:11px; font-size:11px; font-family:\"Open Sans\"; font-weight:bold; color:#ffffff;}"}],"bOffBottom":0 ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAAAYCAYAAAB9VvY1AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFvSURBVGhD7ZgLjsIwDES5z15lj7IH4SA9Z4oc2dHUDf1JqbTwnlTRxBM3kMFGPB4AAAAAAAAAAABL5nl+zmueWXcnsac8Dx9IHHYp5c+vKcZZexcY8IsQA/7InI2npfI+MOAXkQ1or9mAURWd1p7t3mPaxlu8lPIr8w17hsW28tqE5tnS9vZgFbynv5Ir4jAAMWC3Bcu4mkYPRdZOerB27/GmDUNEzI1uB245I0+sywbc1cYe/Jlv93QmV14LA0jf9oqYr1bDjB2MrpXqWQ1w0IC5ErXndgy4q5U9rJ6j+pO5Fu8HBpA/dEXbsVfAdula0S8OLMZCmHHR5rNJNO8ZrcffGvBCLgw4mi0DGtKG7ACtetRXi+0dmBs32lm9fF6Nra1uZYQzWtcfMuDBXBhwNHsGNEITHDVgXhfkmJqkl/eMdsuAF3JhwP+KGKEZuzcHMASprNbq4rdjbXlZCzCETgu2vz+ofgAAAAAAAJ/ECzeXZp+4L7MyAAAAAElFTkSuQmCC"  ,"fd": "" ,"p": "M 6.000000 1.000000 L 153.000000 1.000000 L 154.937500 1.375000 L 156.562500 2.500000 L 157.625000 4.062500 L 158.000000 6.000000 L 158.000000 17.000000 L 157.625000 18.937500 L 156.562500 20.562500 L 154.937500 21.625000 L 153.000000 22.000000 L 6.000000 22.000000 L 4.125000 21.625000 L 2.500000 20.562500 L 1.375000 18.937500 L 1.000000 17.000000 L 1.000000 6.000000 L 1.375000 4.062500 L 2.500000 2.500000 L 4.062500 1.375000 L 6.000000 1.000000 z"}
+,
+"image33177":{"x":269,"y":130,"w":277,"h":392,"bOffBottom":0,"i":"images/hitam_putih_minimalis_profil_profesional_cv.png"}
+,
+"image32753":{"x":35,"y":496,"w":194,"h":33,"bOffBottom":0,"i":"images/btn.png"}
+,
+"text32842":{"x":37,"y":503,"w":158,"h":44,"txtscale":100,"bOffBottom":0}
+,
+"RCDResetQuestion":function(){
+try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
+}
+,
+"RCDResultResize":function(){}
+,"preload":[]
+},
+"480":{
+"pageLayer":{"w":480,"h":763,"bgColor":"#ffffff"}
+,
+"image128424":{"x":0,"y":0,"w":505,"h":332,"bOffBottom":0,"i":"images/karirpage_-_bekerja_-tipsmemasukiduniakerja_-_membuatcv_2_.png"}
+,
+"audio207488":{"x":416,"y":4,"w":24,"h":24,"bOffBottom":0}
+,
+"image196565":{"x":472,"y":4,"w":24,"h":24,"bOffBottom":0,"i":"images/group_86.png"}
+,
+"image196562":{"x":444,"y":4,"w":24,"h":24,"bOffBottom":0,"i":"images/group_87.png"}
+,
+"text161985":{"x":80,"y":119,"w":104,"h":52,"txtscale":100,"bOffBottom":0}
+,
+"text161983":{"x":324,"y":118,"w":109,"h":78,"txtscale":100,"bOffBottom":0}
+,
+"text161982":{"x":185,"y":70,"w":137,"h":84,"txtscale":100,"bOffBottom":0}
+,
+"image161980":{"x":12,"y":71,"w":16,"h":15,"bOffBottom":0,"i":"images/angle-right-b.png"}
+,
+"image137333":{"x":268,"y":227,"w":237,"h":74,"bOffBottom":0,"i":"images/card1_4_.png"}
+,
+"image136215":{"x":0,"y":475,"w":182,"h":57,"bOffBottom":0,"i":"images/card1_4_.png"}
+,
+"image135278":{"x":0,"y":310,"w":207,"h":65,"bOffBottom":0,"i":"images/card1_4_.png"}
+,
+"image135092":{"x":0,"y":177,"w":213,"h":67,"bOffBottom":0,"i":"images/card1_4_.png"}
+,
+"image134366":{"x":310,"y":554,"w":193,"h":51,"bOffBottom":0,"i":"images/card1_3_.png"}
+,
+"image131985":{"x":250,"y":353,"w":263,"h":114,"bOffBottom":0,"i":"images/card1.png"}
+,
+"shape122962":{"x":327,"y":228,"w":99.000000,"h":16.000000,"stylemods":[{"sel":"div.shape122962Text","decl":" { position:fixed; left:4px; top:4px; width:92px; height:9px;}"},{"sel":"span.shape122962Text","decl":" { display:table-cell; position:relative; width:92px; height:9px; vertical-align:middle; text-align:center; line-height:7px; font-size:7px; font-family:\"Open Sans\"; font-weight:bold; color:#ffffff;}"}],"bOffBottom":0 ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAAAQCAYAAAACjcH6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD7SURBVFhH7ZTRDcMwCES7T1bJKBkkg3ROqLDAOlPi5K+1dE+yYhO4GIL9ehFCCCGEkD9FRN42VPUUkT2/n6GqKiJbtiNPfILse7W37HdnXwZPYLcRc7NbUmEPX7C1hDF5iGvvcV3ZK73cDJO9lZo5fjlSkod1IdgP70579oLYGnw21PB5iyl8Wqf7uNR7uDfULOOXIyeMhfLrIa4JTL6fjPBLermgEWtd3OeVXhE77K3SzN+K9XJEwl6oOAVD8TBB71CF2La+KSjqtR890cuxw94qzeS/9s8AsMNPT264ptDP31uh7graT4E/p3oYm30Kza9vxZoQQgj5JR+Yz/b9zo79ewAAAABJRU5ErkJggg=="  ,"fd": "" ,"p": "M 4.000000 1.000000 L 94.000000 1.000000 L 95.187500 1.250000 L 96.125000 1.875000 L 96.750000 2.875000 L 97.000000 4.000000 L 97.000000 11.000000 L 96.750000 12.187500 L 96.125000 13.125000 L 95.187500 13.750000 L 94.000000 14.000000 L 4.000000 14.000000 L 2.875000 13.750000 L 1.937500 13.125000 L 1.250000 12.187500 L 1.000000 11.000000 L 1.000000 4.000000 L 1.250000 2.875000 L 1.875000 1.875000 L 2.875000 1.250000 L 4.000000 1.000000 z"}
+,
+"text122099":{"x":339,"y":263,"w":158,"h":220,"txtscale":100,"bOffBottom":0}
+,
+"text124093":{"x":339,"y":405,"w":155,"h":320,"txtscale":100,"bOffBottom":0}
+,
+"text126289":{"x":340,"y":589,"w":153,"h":100,"txtscale":100,"bOffBottom":0}
+,
+"text120455":{"x":17,"y":344,"w":147,"h":160,"txtscale":100,"bOffBottom":0}
+,
+"text121577":{"x":15,"y":511,"w":147,"h":120,"txtscale":100,"bOffBottom":0}
+,
+"text120389":{"x":15,"y":214,"w":147,"h":160,"txtscale":100,"bOffBottom":0}
+,
+"shape117008":{"x":330,"y":556,"w":113.000000,"h":16.000000,"stylemods":[{"sel":"div.shape117008Text","decl":" { position:fixed; left:4px; top:4px; width:106px; height:9px;}"},{"sel":"span.shape117008Text","decl":" { display:table-cell; position:relative; width:106px; height:9px; vertical-align:middle; text-align:center; line-height:7px; font-size:7px; font-family:\"Open Sans\"; font-weight:bold; color:#ffffff;}"}],"bOffBottom":0 ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHEAAAAQCAYAAAAh1pAvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGDSURBVFhH7ZTZbQMxDETdT1pxKS4khaROySDDEZ640q7z4yQABzDM5X2Jt1uhUCgUCoVCofCv0Vp7tNa+4veR5VfovXez671/Gq3/1tqd8mx3hWxn/pTnrPkNySz+WbzsdwfU9ZL+r4FJqumi9R08+6aONcyGv+WpcDbhIsZkR1l8m38NcpIZtDiWg9Fhc4iDeg+yXEPyy9xWtqNH0nsLLJhej3iRtF7nAzwVeMe3aG+cXrMKh+3Ek5+FTx8C7ZDruBjiEWy20eCtarFm73JgXcrb4yp2toXfSe9tiILsDI1hxEny02Q6uaFqGGUqfiWXT8T0xoaeb37QvgQnMdWkMSjKBQ5zV0vOAbLV8vnLNdpkJ7aT3luQNt0LZTIXDX15iFqO0ONLsQZ7EyKHcQoZM9uweQJjhs00gFQL44wcFnkfhphz+QtD1LZaAn4C0KR8KjjE0UgkfzZE33zR8D+dssDy9WvzaStZjgnerhaeTsoOdemf9MZ20mMehUKhUCgUfo4nSefs+XMtPL8AAAAASUVORK5CYII="  ,"fd": "" ,"p": "M 4.000000 1.000000 L 108.000000 1.000000 L 109.187500 1.250000 L 110.125000 1.875000 L 110.750000 2.875000 L 111.000000 4.000000 L 111.000000 11.000000 L 110.750000 12.187500 L 110.125000 13.125000 L 109.187500 13.750000 L 108.000000 14.000000 L 4.000000 14.000000 L 2.875000 13.750000 L 1.937500 13.125000 L 1.250000 12.187500 L 1.000000 11.000000 L 1.000000 4.000000 L 1.250000 2.875000 L 1.875000 1.875000 L 2.875000 1.250000 L 4.000000 1.000000 z"}
+,
+"shape113843":{"x":70,"y":476,"w":99.000000,"h":16.000000,"stylemods":[{"sel":"div.shape113843Text","decl":" { position:fixed; left:4px; top:4px; width:92px; height:9px;}"},{"sel":"span.shape113843Text","decl":" { display:table-cell; position:relative; width:92px; height:9px; vertical-align:middle; text-align:center; line-height:7px; font-size:7px; font-family:\"Open Sans\"; font-weight:bold; color:#ffffff;}"}],"bOffBottom":0 ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAAAQCAYAAAACjcH6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADzSURBVFhH7VRRDoUgDPM+7yoexYO8g3jOYbqspFkUfsWsiQHWsbgW2LZCoVAoFAqFwkthZqeZ7Xn+FrTWmpn9OGb+U4gm99baHx9iaBoxNSaMOoK747H2+KBGz5nxGsNIM2b7ljYsmoTQZ4pBeBoAs5jHeedTHV9z30POiXkcAK+Vef5PvhmzutrHcmAjGLGm2BAq4n5bIs9P5IDvp5JmRVxF4wmm2P1GCu/ia0y4Ud2+b0lQZIqSGvdP8ya8z2lYxFEzizYzQ/erGcek7jfM0Lk8H/oU9CflgVczKB6fjizayIzbUy//Nqq7thmFQqFQ+BQulrcMNIqRCEIAAAAASUVORK5CYII="  ,"fd": "" ,"p": "M 4.000000 1.000000 L 94.000000 1.000000 L 95.187500 1.250000 L 96.125000 1.875000 L 96.750000 2.875000 L 97.000000 4.000000 L 97.000000 11.000000 L 96.750000 12.187500 L 96.125000 13.125000 L 95.187500 13.750000 L 94.000000 14.000000 L 4.000000 14.000000 L 2.875000 13.750000 L 1.937500 13.125000 L 1.250000 12.187500 L 1.000000 11.000000 L 1.000000 4.000000 L 1.250000 2.875000 L 1.875000 1.875000 L 2.875000 1.250000 L 4.000000 1.000000 z"}
+,
+"shape112802":{"x":70,"y":310,"w":99.000000,"h":16.000000,"stylemods":[{"sel":"div.shape112802Text","decl":" { position:fixed; left:4px; top:4px; width:92px; height:9px;}"},{"sel":"span.shape112802Text","decl":" { display:table-cell; position:relative; width:92px; height:9px; vertical-align:middle; text-align:center; line-height:7px; font-size:7px; font-family:\"Open Sans\"; font-weight:bold; color:#ffffff;}"}],"bOffBottom":0 ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAAAQCAYAAAACjcH6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFPSURBVFhH7VXrzcIwDGQfVvlGYRAG+eZM0EU+6+K6lpCg/PFJVf1KfX4QbrdGo9FoNBqNxkUYY/zjmXM+xxh32Oack/JVyHi8izHGA9+AHGvIfDHm5zBCf2gCZNiggySJUqdsb/hhV50xy5fFmQ2NR3O8EeQBu/DIzpKbcqLuDU/yH3w6jCS+zPkVZE0w2yKP5NBtYxHHguBfOmU5j9hHFWe6Fyw89DvKY31Pzq6HNsu52QL31CdvDmPje5bzKzCyC5x6IAly3pDQZFwrK0bOsdncuNO4gocPhY3EW7lpE9kglc23/RqyYTAHeRR8PSdjPw4WZNdULJjbwE2hXP0KfHvO4pgz40FdN5ePxG3DYI6k4XrlRZ8vm3yz4nvdMFSW5FrMdpdbDAfEYXiBVRz/n6hHHmJjXLwytsbIJh+uosoX6yz4HnI2Go1Go/FpvAClBmjxAUtx9AAAAABJRU5ErkJggg=="  ,"fd": "" ,"p": "M 4.000000 1.000000 L 94.000000 1.000000 L 95.187500 1.250000 L 96.125000 1.875000 L 96.750000 2.875000 L 97.000000 4.000000 L 97.000000 11.000000 L 96.750000 12.187500 L 96.125000 13.125000 L 95.187500 13.750000 L 94.000000 14.000000 L 4.000000 14.000000 L 2.875000 13.750000 L 1.937500 13.125000 L 1.250000 12.187500 L 1.000000 11.000000 L 1.000000 4.000000 L 1.250000 2.875000 L 1.875000 1.875000 L 2.875000 1.250000 L 4.000000 1.000000 z"}
+,
+"shape112078":{"x":46,"y":181,"w":123.000000,"h":16.000000,"stylemods":[{"sel":"div.shape112078Text","decl":" { position:fixed; left:4px; top:4px; width:116px; height:9px;}"},{"sel":"span.shape112078Text","decl":" { display:table-cell; position:relative; width:116px; height:9px; vertical-align:middle; text-align:center; line-height:7px; font-size:7px; font-family:\"Open Sans\"; font-weight:bold; color:#ffffff;}"}],"bOffBottom":0 ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAAQCAYAAAA29ADmAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAGgSURBVFhH7VbRTUQxDLt9bhVGYRAGYc6+U0JcuW7ae+8ACaT4B5qmtpP0FW63QqFQKBQKhUKh8IfQWvs8juOD1621+5j1s2itvZuOxs8g/L1pHLBaji/0mn4bJsY9Y4/P/F6Fal1CNMYI3BCT2U+Ls9lYI57tT7Fkrw87y1cN5mCvWV401/gtvuXW9SJ/F4PmUCs8xsXzS7fguexf5jP1eAt8BWi+kJmoibkB2re1vQh+NmK+n53JtGjYUz5rII85UKTmRYMRu7Memk77kxbyI5bWQxoWY45+KZmTYxsvmX/nX/TGa3tp2HGDnJCNh5g3QcVgImJ8g6czEe/58vuUTxpeFDhob3iFOI8a5Y1TPa5POE7VQ432C7Xh9DPQ33lh/1yfamM/cP3PFAm6IV1Hjt1IHcTUnNUZQ1bwKp80vjNsjk0NFr5X6vEPY8PZn/FnXrJhr7Rjf/goT4MPhbnBQDRvekYWzUnPAHRLsZ/mqwfmQDNWeRh27OOftemM8J2uB0MI8HOsnKyHwTvUC/unPMxi1Zt+2QqFQqFQKPxfPADXXQOQva4GSgAAAABJRU5ErkJggg=="  ,"fd": "" ,"p": "M 4.000000 1.000000 L 118.000000 1.000000 L 119.187500 1.250000 L 120.125000 1.875000 L 120.750000 2.875000 L 121.000000 4.000000 L 121.000000 11.000000 L 120.750000 12.187500 L 120.125000 13.125000 L 119.187500 13.750000 L 118.000000 14.000000 L 4.000000 14.000000 L 2.875000 13.750000 L 1.937500 13.125000 L 1.250000 12.187500 L 1.000000 11.000000 L 1.000000 4.000000 L 1.250000 2.875000 L 1.875000 1.875000 L 2.875000 1.250000 L 4.000000 1.000000 z"}
+,
+"shape112508":{"x":327,"y":368,"w":99.000000,"h":16.000000,"stylemods":[{"sel":"div.shape112508Text","decl":" { position:fixed; left:4px; top:4px; width:92px; height:9px;}"},{"sel":"span.shape112508Text","decl":" { display:table-cell; position:relative; width:92px; height:9px; vertical-align:middle; text-align:center; line-height:7px; font-size:7px; font-family:\"Open Sans\"; font-weight:bold; color:#ffffff;}"}],"bOffBottom":0 ,"td": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGMAAAAQCAYAAAACjcH6AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAD0SURBVFhH7ZTrDYMwDITZh1UYhUEYpHPalS0fcoJT/rRSie6TooJfwF2TZSGEEEIIIX+OiLxsqeohImuf/waqqr+aPRUh1CYiu11bzISL2Ia6uEfchc11qK16YUaV6+cW+Sp2eZcpSGZsMCNie+yaPcV8F8VaITJmWF302by+18Qb5bA7jQPPv5l3vkv+nkcTAjjZlDi2/PhCHf7d6boxxepgYsQqM0Y5FzxiZog/96bHn52/59HABNx3YvtKdY0AMCsZkXeXxbN45zFY5EozbubNb0bEcFT0R0MjgP0CnN+pr+91YQe5kRmf5s1nBiGEkCl4AwOPynvsAnFVAAAAAElFTkSuQmCC"  ,"fd": "" ,"p": "M 4.000000 1.000000 L 94.000000 1.000000 L 95.187500 1.250000 L 96.125000 1.875000 L 96.750000 2.875000 L 97.000000 4.000000 L 97.000000 11.000000 L 96.750000 12.187500 L 96.125000 13.125000 L 95.187500 13.750000 L 94.000000 14.000000 L 4.000000 14.000000 L 2.875000 13.750000 L 1.937500 13.125000 L 1.250000 12.187500 L 1.000000 11.000000 L 1.000000 4.000000 L 1.250000 2.875000 L 1.875000 1.875000 L 2.875000 1.250000 L 4.000000 1.000000 z"}
+,
+"image33177":{"x":165,"y":159,"w":170,"h":240,"bOffBottom":0,"i":"images/hitam_putih_minimalis_profil_profesional_cv.png"}
+,
+"image32753":{"x":22,"y":607,"w":119,"h":20,"bOffBottom":0,"i":"images/btn.png"}
+,
+"text32842":{"x":23,"y":615,"w":97,"h":44,"txtscale":100,"bOffBottom":0}
+,
+"RCDResetQuestion":function(){
+try{if(window.dragMgr)window.dragMgr.clearDropZones();}catch(e){if(e&&e.message)console.log(e.message);}
+}
+,
+"RCDResultResize":function(){}
+,"preload":[]
+}}
