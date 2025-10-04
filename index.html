@@ -32,32 +32,32 @@ document.namespaces.add('v', 'urn:schemas-microsoft-com:vml', "#default#VML")
 <![endif]-->
 
 <script>
-	window.location.href = "welcome_page.html";
-// VarTrivSelCap = new Variable( 'VarTrivSelCap', 'none', 0, 0, null, null, 'karier_scope', true );
-// var pagePlayer = null;
-// var bHasAutoStart = true;
-// var jumpToPage = getQueryParams().jmptopg;
-// if( typeof(jumpToPage)=="undefined" && history && history.state && history.state.status ) jumpToPage = history.state.status;
-// var audioPoolCount = 1;
-// var videoPoolCount = 0;
-// if(window.jQuery) triv$ = window.jQuery.noConflict(true);
-// var firstPageName = jumpToPage ? jumpToPage : 'welcome_page.html';
-// function onLoad(){
-// 	 window.scrollTo(0,0);
-// 	 pagePlayer = new jsPagePlayer();
-// 	 function cont(){
-// 		 pagePlayer.gotoPage(firstPageName, true);
-// 	 } 
-// 	 if((audioPoolCount || videoPoolCount) && is.isMobile.any())
-// 	 {
-// 		 jsOpaUtils.createInitClickDiv(function() 
-// 		 { 
-// 			 cont();
-// 		 });
-// 	 }
-// 	 else
-// 		 cont();
-// }
+	// window.location.href = "welcome_page.html";
+VarTrivSelCap = new Variable( 'VarTrivSelCap', 'none', 0, 0, null, null, 'karier_scope', true );
+var pagePlayer = null;
+var bHasAutoStart = true;
+var jumpToPage = getQueryParams().jmptopg;
+if( typeof(jumpToPage)=="undefined" && history && history.state && history.state.status ) jumpToPage = history.state.status;
+var audioPoolCount = 1;
+var videoPoolCount = 0;
+if(window.jQuery) triv$ = window.jQuery.noConflict(true);
+var firstPageName = jumpToPage ? jumpToPage : 'welcome_page.html';
+function onLoad(){
+	 window.scrollTo(0,0);
+	 pagePlayer = new jsPagePlayer();
+	 function cont(){
+		 pagePlayer.gotoPage(firstPageName, true);
+	 } 
+	 if((audioPoolCount || videoPoolCount) && is.isMobile.any())
+	 {
+		 jsOpaUtils.createInitClickDiv(function() 
+		 { 
+			 cont();
+		 });
+	 }
+	 else
+		 cont();
+}
 </script>
 </head>
 
